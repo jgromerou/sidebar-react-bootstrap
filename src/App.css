@@ -10,6 +10,11 @@
   flex-grow: 1;
 }
 
+.flex-grow-aside {
+  flex-grow: 1;
+  padding: 1rem;
+}
+
 #newCard {
   background: #f5f5f5;
 }
